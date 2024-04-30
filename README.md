@@ -1,4 +1,4 @@
-**Your Project Name**
+**FIT CHECK**
 
 A short description of your Flutter project. 
 This is a Flutter project that calculates a person's Body Mass Index (BMI) based on their weight and height. It provides a user-friendly interface for inputting weight and height values, and displays the calculated BMI along with relevant interpretation and recommendations.
